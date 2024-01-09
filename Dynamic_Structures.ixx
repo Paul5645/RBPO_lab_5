@@ -1,3 +1,5 @@
+// Файл Dynamic_Structures.ixx
+
 export module Dynamic_Structures;
 
 export import :Abstract_Class_Stack;

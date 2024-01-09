@@ -1,4 +1,4 @@
-
+// Файл Abstract_Class_Stack.ixx
 
 module;
 #include <iostream>

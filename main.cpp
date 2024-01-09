@@ -1,3 +1,5 @@
+// Файл main.cpp
+
 import Dynamic_Structures;
 #include <iostream>
 using namespace Dynamic_Structures;
